@@ -1,5 +1,12 @@
 <h1>Hi, I'm Christine! <br/>A <a href="https://github.com/OdegiChristine">Software Developer</h1>
 
+<h2>About Me</h2>
+  <p>I am a passionate and purpose-driven Computer Science student (Class of 2026) with a strong focus on backend and frontend engineering, AI integration, and impact-driven product development. My mission is to use my skills to build solutions to problems faced by people in my community.
+
+I have worked on an air quality monitoring system, which focused on displaying air quality data and offering insights to users. Currently, I am working on Edulimu, an AI-powered learning platform that transforms traditional learning materials into dynamic, personalized learning experiences. 
+
+I bring together real-world problem solving, technical execution, and a commitment to equity in education.</p>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms - Coursera</b>
