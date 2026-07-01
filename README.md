@@ -1,11 +1,9 @@
 <h1>Hi, I'm Christine! <br/>A <a href="https://github.com/OdegiChristine">Software Developer</h1>
 
 <h2>About Me</h2>
-  <p>I am a passionate and purpose-driven Computer Science student (Class of 2026) with a strong focus on backend and frontend engineering, AI integration, and impact-driven product development. My mission is to use my skills to build solutions to problems faced by people in my community.
-
-I have worked on an air quality monitoring system, which focused on displaying air quality data and offering insights to users. Currently, I am working on Edulimu, an AI-powered learning platform that transforms traditional learning materials into dynamic, personalized learning experiences. 
-
-I bring together real-world problem solving, technical execution, and a commitment to equity in education.</p>
+  <p>Software Engineer with experience designing and building AI-powered web applications, RESTful APIs, and scalable backend systems using FastAPI, Django, Python, PostgreSQL, and modern frontend technologies.
+  Experienced in translating user requirements into functional digital products through end-to-end software development, from architecture and API design to AI integration and user-facing features.
+  Passionate about leveraging artificial intelligence and technology to improve access to education and advance sustainable development goals. Strong collaborator with experience working across backend, frontend, and AI components while continuously learning and adapting to new technologies.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -13,12 +11,12 @@ I bring together real-world problem solving, technical execution, and a commitme
   - [Practising DS and algos in Java](https://github.com/OdegiChristine/java-algorithms)
 - <b>Frontend Development (React, JS, TS, Node Js)</b>
   - [Project Polluwatch](https://github.com/Project-AQMI/Polluwatch)
-  - [Edulimu(In the works) - Private Repo]
+  - Edulimu(Next Js, TypeScript, Tailwind CSS) - Private Repo
 - <b>Backend Development Projects</b>
   - [E-commerce Backend(Python, Django, Django REST Framework, JWT, PostgreSQL)](https://github.com/OdegiChristine/alx-capstone-e-commerce)
   - [AirBnB Clone(Django, Django REST Framework, MySQL, drf-yasg(Swagger), Celery with RabbitMQ)](https://github.com/OdegiChristine/airbnb_clone)
   - [Travel_app(Django, Django REST Framework, MySQL, djangorestframework-simplejwt, drf-yasg (Swagger), Celery with RabbitMQ)](https://github.com/OdegiChristine/alx_travel_app_0x03)
-  - [EduLimu(FastAPI, Alembic, PostgreSQL, SQLAlchemy, pgvector, Docker, Pydantic) - Private Repo]
+  - EduLimu(FastAPI, Alembic, PostgreSQL, SQLAlchemy, pgvector, Docker, Pydantic) - Private Repo
   - [Blog Website(Python, Django, HTML, CSS)](https://github.com/OdegiChristine/Project)
  - <b>Database Management</b>
    - [Data Warehouse Project(PostgreSQL, Star Schema Modelling, ETL logic using SQL procedures)](https://github.com/OdegiChristine/data-warehouse-project)
