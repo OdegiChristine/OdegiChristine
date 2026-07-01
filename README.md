@@ -10,7 +10,7 @@
 - <b>Data Structures and Algorithms - Coursera</b>
   - [Practising DS and algos in Java](https://github.com/OdegiChristine/java-algorithms)
 - <b>Frontend Development (React, JS, TS, Node Js)</b>
-  - [Project Polluwatch](https://github.com/Project-AQMI/Polluwatch)
+  - [Project Polluwatch (React, JavaScript, BootStrap)](https://polluwatch.jhubafrica.com)
   - Edulimu(Next Js, TypeScript, Tailwind CSS) - Private Repo
 - <b>Backend Development Projects</b>
   - [E-commerce Backend(Python, Django, Django REST Framework, JWT, PostgreSQL)](https://github.com/OdegiChristine/alx-capstone-e-commerce)
