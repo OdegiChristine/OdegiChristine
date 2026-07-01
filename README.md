@@ -13,9 +13,16 @@ I bring together real-world problem solving, technical execution, and a commitme
   - [Practising DS and algos in Java](https://github.com/OdegiChristine/java-algorithms)
 - <b>Frontend Development (React, JS, TS, Node Js)</b>
   - [Project Polluwatch](https://github.com/Project-AQMI/Polluwatch)
-  - [Edulimu(In the works)](https://github.com/PersonalizedLMS)
+  - [Edulimu(In the works) - Private Repo]
 - <b>Backend Development Projects</b>
+  - [E-commerce Backend(Python, Django, Django REST Framework, JWT, PostgreSQL)](https://github.com/OdegiChristine/alx-capstone-e-commerce)
+  - [AirBnB Clone(Django, Django REST Framework, MySQL, drf-yasg(Swagger), Celery with RabbitMQ)](https://github.com/OdegiChristine/airbnb_clone)
+  - [Travel_app(Django, Django REST Framework, MySQL, djangorestframework-simplejwt, drf-yasg (Swagger), Celery with RabbitMQ)](https://github.com/OdegiChristine/alx_travel_app_0x03)
+  - [EduLimu(FastAPI, Alembic, PostgreSQL, SQLAlchemy, pgvector, Docker, Pydantic) - Private Repo]
   - [Blog Website(Python, Django, HTML, CSS)](https://github.com/OdegiChristine/Project)
+ - <b>Database Management</b>
+   - [Data Warehouse Project(PostgreSQL, Star Schema Modelling, ETL logic using SQL procedures)](https://github.com/OdegiChristine/data-warehouse-project)
+  
 
 <h2>📺 Pitch Video</h2>
 
